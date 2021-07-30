@@ -27,4 +27,9 @@ import pandas
 ```bash
 import matplotlib.pyplot
 ```
-### The RandomForestClassifier gives better results than SupportVectorClassifier
+#### **By Performing**
+*Bag of words*
+*TF, IDF vectorisation*
+*Pipelining
+*RF*
+#### We find that *RandomForestClassifier* is better approach than SupportVectorClassifier. 
