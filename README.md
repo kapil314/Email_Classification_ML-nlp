@@ -4,7 +4,7 @@
 
 
 ### This code uses the following libraries
-#### spacy
+#### Spacy
 #### Scikit-learn
 #### Numpy
 #### Pandas
