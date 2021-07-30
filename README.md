@@ -28,8 +28,8 @@ import pandas
 import matplotlib.pyplot
 ```
 #### **By Performing**
-*Bag of words*
-*TF, IDF vectorisation*
-*Pipelining
-*RF*
+* *Bag of words*
+* *TF, IDF vectorisation*
+* *Pipelining*
+* *RF*
 #### We find that *RandomForestClassifier* is better approach than SupportVectorClassifier. 
