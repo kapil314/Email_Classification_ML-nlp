@@ -8,9 +8,23 @@ In Current era:
 
 ### This code uses the following libraries
 * Spacy
+```bash
+pip install spacy
+```
 * Scikit-learn
+```bash
+pip install scikit-learn
+```
 * Numpy
+```bash
+import numpy
+```
 * Pandas
+```bash
+import pandas
+```
 * Matplotlib
-
+```bash
+import matplotlib.pyplot
+```
 ### The RandomForestClassifier gives better results than SupportVectorClassifier
