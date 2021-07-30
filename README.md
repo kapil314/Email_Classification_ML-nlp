@@ -4,10 +4,10 @@
 
 
 ### This code uses the following libraries
-1.Spacy
-2.Scikit-learn
-3.Numpy
-4.Pandas
-5.Matplotlib
+#### spacy
+#### Scikit-learn
+#### Numpy
+#### Pandas
+#### Matplotlib
 
 ### The RandomForestClassifier gives better results than SupportVectorClassifier
